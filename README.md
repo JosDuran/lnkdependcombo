@@ -6,4 +6,4 @@ and this repository
 
 https://github.com/PrettyPrinted/dynamic_select_flask_wtf_javascript
 
-Its about using of twoo linked combo box using javascript, python and sqlite3
+Its about using of twoo linked combo box using javascript, python and sqlite3 (without using sqlAlchemy framework)
